@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Simple project for generating docx documents with varibles passed through a React form.
+Simple project for generating docx documents with varibles passed through a React form.<br>
 Uses `docxtemplater` for generating the files and `semantic-ui` for styling
 
 [Live demo for creating a from a react form](https://doc-generator-c9b96.web.app)
