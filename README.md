@@ -1,3 +1,5 @@
+# Simple Document Generator (.docx) using React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Simple project for generating docx documents with varibles passed through a React form.<br>
@@ -7,8 +9,16 @@ Uses `docxtemplater` for generating the files and `semantic-ui` for styling
 
 ## Quickstart
 
-Clone the project and cd to its folder and run `npm install`<br>
-Run the project in development mode: `npm start`<br>
+
+Clone the project and cd to its folder:
+- `$ git clone https://github.com/fabiopk/doc-generator.git`
+- `$ cd doc-generator`
+
+Install the npm requirements:
+- `npm install`
+
+Run the project in development mode:
+- `npm install`
 
 ## Custom Usage
 
