@@ -18,7 +18,7 @@ Install the npm requirements:
 - `npm install`
 
 Run the project in development mode:
-- `npm install`
+- `npm start`
 
 ## Custom Usage
 
